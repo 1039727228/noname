@@ -1,4 +1,5 @@
 const characters = {
+	wei_zhangliao: ["male", "qun", 4, ["newj_yuxi", "newj_porong"]],
 	pangfengyi: ["female", "shu", 3, ["dcyitong", "dcpeiniang"]],
 	dc_sb_huanggai: ["male", "wu", 4, ["dcsblieji", "dcsbquzhou"]],
 	dc_sb_chenlin: ["male", "qun", 3, ["dcsbyaozuo", "dcsbzhuanwen"]],
